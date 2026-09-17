@@ -58,6 +58,3 @@ This dashboard provides a high-level and granular view of Airbnb performance acr
 - Zip code 98134 and 98119 show the highest average prices, while 98125 and 98133 are on the lower end.
 - The majority of listings are 1-bedroom units (1,811 out of 2,873 total).
 
-## 📄 License
-
-Add your preferred license here (e.g., MIT).
